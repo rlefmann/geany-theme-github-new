@@ -2,6 +2,9 @@
 
 A color scheme for the [Geany IDE/editor][geany] that is similar to GitHub.com's current (2017) syntax highlighting colors.
 
+![IMAGE](github-new.png)
+
+
 ## Installation
 
 Copy the file `github-new.conf` to your `~/.config/geany/colorschemes/`
